@@ -1,2 +1,2 @@
 # hello-world2
-This is me trying to learn this again. 
+I hope this proves to be a valid learning tool for familiarizing myself with GitHub.
